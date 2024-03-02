@@ -1,9 +1,17 @@
-# Hey, there 👋 
+# Hey, there 👋  
 ## I'm Camila Alves!
 
 - 🔭 I’m currently studying and improving 1% every day.
 - 🌱 Now I’m learning about Java as the principal language from my stack and Spring Boot to develop APIs and Microservices.
-- 🤲 I’m looking to collaborate on an opensource project
+- 🤲 I’m collaborating on an open-source project [Quarkus.io](https://quarkus.io/)
+
+ 
+## How to reach me 
+<div> 
+  <a href = "mailto:alvescamila87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alvescamila87" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://alvescamila87.github.io/projeto-devlinks/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+</div> 
 
 ## Stacks
 <div style="display: inline_block"><br>
@@ -17,13 +25,9 @@
   <img align="center" alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-  
-## How to reach me 
-<div> 
-  <a href = "mailto:alvescamila87@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alvescamila87" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div> 
-
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvescamila87&langs_count=15)
+![Camila GitHub stats](https://github-readme-stats.vercel.app/api?username=alvescamila87&show_icons=true&theme=dark)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvescamila87&layout=compact)](https://github.com/alvescamila87/github-readme-stats)
+
 
