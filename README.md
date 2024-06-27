@@ -2,7 +2,7 @@
 ## I'm Camila Alves!
 
 - 🔭 I’m currently studying and improving 1% every day.
-- 🌱 Now I’m learning about Java as the principal language from my stack and Spring Boot to develop APIs and Microsservices.
+- 🌱 Now I’m learning about Java as the principal language from my stack and Spring Boot to develop APIs and Microservices.
 - 🤲 I’m collaborating on an open-source project [Quarkus.io](https://quarkus.io/)
 
  
